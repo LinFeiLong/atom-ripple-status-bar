@@ -1,7 +1,7 @@
 {
   "name": "ripple-status-bar",
   "main": "./lib/ripple-status-bar",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Keep an eye on the latest XRP price while you code!",
   "keywords": [
     "cryptocurrency",
