@@ -6,4 +6,4 @@ The price is provided by [CoinMarketCap](https://coinmarketcap.com/)'s API, expr
 
 ## Example
 
-![1 XRP = $0.295534](https://i.imgur.com/CScmxQk.png)
+![1 XRP = $0.295514](https://i.imgur.com/5mnbxMX.png)
