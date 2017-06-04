@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle ripple-status-bar",
+        "command": "ripple-status-bar:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "Ripple Status Bar",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "ripple-status-bar:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

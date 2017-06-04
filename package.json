@@ -1,0 +1,25 @@
+{
+  "name": "ripple-status-bar",
+  "main": "./lib/ripple-status-bar",
+  "version": "0.1.0",
+  "description": "Keep an eye on the latest XRP price while you code!",
+  "keywords": [
+    "cryptocurrency",
+    "market",
+    "xrp",
+    "price-ticker"
+  ],
+  "repository": "https://github.com/cyril/atom-ripple-status-bar",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "consumedServices": {
+    "status-bar": {
+      "versions": {
+        "^1.0.0": "consumeStatusBar"
+      }
+    }
+  },
+  "dependencies": {}
+}
